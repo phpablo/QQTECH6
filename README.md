@@ -1,6 +1,6 @@
 <h1 align="center">🟩 Estágio QQTECH 🟩 </h1>
 
-<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada no estágio da Quero-Quero Tech Turma 6.2024. Aqui você encontrará meus projetos didáticos feitos na faculdade e nos cursos extracurriculares, exercícios das aulas e experiências à medida que vou adquirindo novos conhecimentos e habilidades no mundo do desenvolvimento web.<p/>
+<p align="center">Este é o meu espaço pessoal onde compartilho minha jornada no estágio da Quero-Quero Tech Turma 6.2024. Aqui você encontrará meus projetos didáticos e algoritmos resolvidos.<p/>
 
 ## O que você encontrará aqui:
 
