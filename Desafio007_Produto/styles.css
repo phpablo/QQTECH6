@@ -19,7 +19,8 @@ h1 {
 }
 
 #cadastro,
-#consulta{
+#consulta,
+#resultado{
   width: 100%;
   max-width: 400px;
   background-color: #fff;
