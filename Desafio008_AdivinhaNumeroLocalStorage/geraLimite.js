@@ -17,9 +17,9 @@ function geraLimite() {
   btnTentar.style.display = 'block';
   
   // Define um atraso de 1000 milissegundos (1 segundo) para chamar a função removerMensagem
-  setTimeout(function () {
-    removerMensagem();
-  }, 5000);
+  // setTimeout(function () {
+  //   removerMensagem();
+  // }, 5000);
 }
 
 function removerMensagem() {
